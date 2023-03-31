@@ -1,0 +1,44 @@
+
+
+/*header section*/
+.header-section {
+	margin-top:100px;
+}
+.header-section .header-title h2{
+	text-align:center;
+	display:block;
+	font-size:35px;
+	padding:20px;
+	color:#ffffff;
+	text-shadow:4px 4px 4px black;
+}
+.student-info{
+	margin:25px;
+}
+.student-info table tr,th,td{
+	border:1px solid white;
+	text-align:center;
+	font-size:18px;
+	color:#ffffff;
+}
+.student-info table th{
+	font-size:20px;
+}
+.student-info .table{
+	background:rgba(10,10,10,0.5);
+	padding:15px;
+}
+
+.student-info .table a{
+	text-decoration:none;
+	color:yellow;
+	transition:0.3s;
+}
+
+.student-info .table a:hover{
+	color:white;
+}
+
+
+
+
